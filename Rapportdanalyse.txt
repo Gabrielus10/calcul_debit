@@ -1,0 +1,19 @@
+Le debit maximum de la periode est de : 126.0 m3/s
+Le debit minimum de la periode est de : 0.04 m3/s
+Le debit moyen de la periode est de : 12.62072602739726 m3/s
+Le debit median de la periode est de : 6.7 m3/s
+Le premier quartile du boxplot pour la periode est de : 1.8875 m3/s
+Le troisieme quartile du boxplot pour la periode est de : 16.8 m3/s
+
+Les débits de crue pour différentes périodes de non retour ont été determinés à partir de la loi de Gumbel. Voici les résultats. 
+
+Le débit de crue pour une période de non retour de 2 ans est de 114.2828958560685 m3/s
+Le débit de crue pour une période de non retour de 5 ans est de 152.97770999414178 m3/s
+Le débit de crue pour une période de non retour de 10 ans est de 175.53555416881403 m3/s
+Le débit de crue pour une période de non retour de 20 ans est de 194.88166621481238 m3/s
+Le débit de crue pour une période de non retour de 50 ans est de 216.59072131484078 m3/s
+Le débit de crue pour une période de non retour de 100 ans est de 230.39404779252501 m3/s
+Le débit de crue pour une période de non retour de 200 ans est de 242.04710622411807 m3/s
+Le débit de crue pour une période de non retour de 500 ans est de 254.2142422965336 m3/s
+Le débit de crue pour une période de non retour de 1000 ans est de 260.98923230686046 m3/s
+
